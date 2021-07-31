@@ -11,6 +11,7 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 
 ## Capiophobia
 <a href="https://drive.google.com/uc?export=view&id=1hVwufwTA60WV_pbfpubOUauGIf0ji8_"><img src="https://drive.google.com/uc?export=view&id=1hVwufwTA60WV_pbfpubOUauGIf0ji8_-" style="width: 650px">
+![image](https://drive.google.com/uc?export=view&id=1hVwufwTA60WV_pbfpubOUauGIf0ji8_)
 ### Capiophobia is a 2D Horror Environment Clicker that tackles about Police Brutality and the horrors that come with it.
 #### Main Menu Art by Georson Chua [[itch.io](https://zerogeorson.itch.io/), [DeviantArt](https://www.deviantart.com/zerogeorson)]
 
