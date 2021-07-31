@@ -5,9 +5,9 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 # These are the games I programmed in various classes and events with my batchmates.
 
 ## Get Trashed
-<img src="https://drive.google.com/uc?export=view&id=1XpQpvtOXZy7moALUf4lxbLCJ7x08KS_q" style="width: 650px">
+[<img src="https://drive.google.com/uc?export=view&id=1XpQpvtOXZy7moALUf4lxbLCJ7x08KS_q" style="width: 650px">
 ### Get Trashed is a hack-and-slash game developed about Managing Trash, Segregation and Recycling, but in an exagerrated manner.
-##### Main Menu Art by Joseph Martin Tan
+##### Main Menu Art by Joseph Martin Tan]
 
 ## Capiophobia
 <img src="https://drive.google.com/uc?export=view&id=1hVwufwTA60WV_pbfpubOUauGIf0ji8_-" style="width: 650px">
