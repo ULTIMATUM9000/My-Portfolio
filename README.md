@@ -6,11 +6,11 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 
 ##### My itch.io profile link [itch.io](https://ultimatum9000.itch.io)
 
-## Cross Destiny Revolution (Capstone 03)
+## Cross Destiny Revolution -The Boundary Between Two Worlds- (Capstone 03)
 ##### Main Menu Art by Joseph Martin Tan [itch.io](https://polydenta.itch.io/)
 [<img src="https://drive.google.com/uc?export=view&id=1thZaApFcjCFEEB71q2EXD35LBultBjbO" style="width: 650px">]()
 ### Role: Programmer
-### Cross Destiny Revolution is a mech fighting game that uses projectiles and strategy to defeat each other
+### Cross-Destiny: Revolution-The Boundary Between Two Worlds- is a dynamic fighting game that is influenced by the Japanese Mecha Media, where you can fly around and defeat the opposing Mech.
 
 ## Cross Destiny Revolution Bullet Assets
 ### I made the code for most of the bullets used in Cross Destiny Revolution. Here is a link to an asset file containing these bullets.
