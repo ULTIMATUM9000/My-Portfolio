@@ -14,7 +14,7 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 
 ## Cross Destiny Revolution Bullet Assets
 ### I made the code for most of the bullets used in Cross Destiny Revolution. Here is a link to an asset file containing these bullets.
-### [Unity Asset Package](https://drive.google.com/file/d/1LAEUT0jts7ejEZfkPX9w2nysMG71XMcz/view?usp=sharing)
+### [Unity Asset Store](https://assetstore.unity.com/packages/slug/227152), [Google Drive](https://drive.google.com/file/d/1LAEUT0jts7ejEZfkPX9w2nysMG71XMcz/view?usp=sharing)
 
 ## Get Trashed (Capstone 02)
 ##### Main Menu Art by Joseph Martin Tan [itch.io](https://polydenta.itch.io/)
