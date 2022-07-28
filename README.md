@@ -12,10 +12,6 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 ### Role: Programmer
 ### Cross-Destiny: Revolution-The Boundary Between Two Worlds- is a dynamic fighting game that is influenced by the Japanese Mecha Media, where you can fly around and defeat the opposing Mech.
 
-## Cross Destiny Revolution Bullet Assets
-### I made the code for most of the bullets used in Cross Destiny Revolution. Here are links to the asset store and google drive containing the prefabs and scripts of the bullets.
-### [Unity Asset Store](https://assetstore.unity.com/packages/slug/227152), [Google Drive](https://drive.google.com/file/d/1LAEUT0jts7ejEZfkPX9w2nysMG71XMcz/view?usp=sharing)
-
 ## Get Trashed (Capstone 02)
 ##### Main Menu Art by Joseph Martin Tan [itch.io](https://polydenta.itch.io/)
 [<img src="https://drive.google.com/uc?export=view&id=1XpQpvtOXZy7moALUf4lxbLCJ7x08KS_q" style="width: 650px">](https://jk2k.itch.io/get-trashed)
