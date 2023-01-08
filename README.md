@@ -8,7 +8,7 @@ My specialty is Programming, and I've been a Lead Programmer in most of our proj
 
 ## Cross Destiny Revolution -The Boundary Between Two Worlds- (Capstone 03)
 ##### Main Menu Art by Joseph Martin Tan [itch.io](https://polydenta.itch.io/)
-[<img src="https://drive.google.com/uc?export=view&id=1thZaApFcjCFEEB71q2EXD35LBultBjbO" style="width: 650px">]()
+[<img src="https://drive.google.com/uc?export=view&id=1thZaApFcjCFEEB71q2EXD35LBultBjbO" style="width: 650px">](https://yergo.itch.io/cross-destiny-revolution)
 ### Role: Programmer
 ### Cross-Destiny: Revolution-The Boundary Between Two Worlds- is a dynamic fighting game that is influenced by the Japanese Mecha Media, where you can fly around and defeat the opposing Mech.
 
